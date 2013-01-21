@@ -3,7 +3,7 @@ final int minFig = 8;
 final int maxFig = 44;
 final float easing = 0.02;
 float[] xxx, yyy, siz, deltx, delty, col, goalx, goaly;
-  
+  ///this sketch could use some comments.....
 void setup( )
 {
   size( 400, 400 );
